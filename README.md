@@ -1,4 +1,4 @@
-## Data Science and AI Portfolio <img align='right' src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website Up">
+# Data Science and AI Portfolio <img align='right' src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website Up">
 
 
 ## Introduction:
