@@ -124,7 +124,9 @@
 <i style="text-align:justify;">List of all the projects with GitHub repository link, that I have implemented over time ⌛.</i>
 <details><summary><strong>📈 Data Dashboards using BI Tools</strong></summary>
     <ul>
-        <li>Tableau - Covid-19 Tracker Dashboard <a href="https://github.com/ms-cse/Tableau-Covid-19-Tracker-Dashboard" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Tableau - Covid-19 Tracker Dashboard <a href="https://github.com/ms-cse/Tableau-Covid-19-Tracker-Dashboard" target="_blank"><b>[GitHub]</b></a> | 
+            <a href="https://public.tableau.com/shared/ZS5P7XNQR?:display_count=n&:origin=viz_share_link" target="_blank"><b>[Online]</b></a>
+        </li>
         <li>Power BI - International Olympics Dashboard <a href="https://github.com/ms-cse/PowerBI-International-Olympics-Dashboard" target="_blank"><b>[GitHub]</b></a></li>
     </ul>
 </details>
@@ -152,6 +154,15 @@
 
 <details><summary><strong>🖨️ Generative AI</strong></summary>
     <ul>
+        <li>LangChain Cold Email Generator <a href="https://github.com/ms-cse/LangChain_Cold_Email_Generator" target="_blank"><b>[GitHub]</b></a></li>
+        <li>LlamaIndex Hotel QnA RAG ChatBot <a href="https://github.com/ms-cse/LlamaIndex_Hotel_QnA_RAG_ChatBot" target="_blank"><b>[GitHub]</b></a></li>
+        <li>VectorShiftAI Lead Collection Hotel RAG QnA ChatBot <a href="https://github.com/ms-cse/VectorShiftAI_Lead_Collection_Hotel_RAG_QnA_ChatBot" target="_blank"><b>[GitHub]</b></a> | 
+            <a href="https://app.vectorshift.ai/chatbots/deployed/67c68c5d9c30f658199082ca" target="_blank"><b>[Online]</b></a>
+        </li>
+        <li>VectorShiftAI Resume Analyzer <a href="https://github.com/ms-cse/VectorShiftAI_Resume_Analyzer" target="_blank"><b>[GitHub]</b></a> | 
+            <a href="https://app.vectorshift.ai/forms/deployed/67c7661f4215e33aa8a70ffb" target="_blank"><b>[Online]</b></a>
+        </li>
+        
     </ul>
 </details>         
 <br>       
