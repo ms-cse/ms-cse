@@ -133,8 +133,8 @@
 
 <details><summary><strong>📊 Data Dashboards using Python and Streamlit</strong></summary>
     <ul>
-        <li>Customer Ad Click Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Customer_Ad_Click_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
-        <li>Online Shoppers Purchasing Intentions Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Online_Shoppers_Purchasing_Intentions_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Dashboard - Customer Ad Click Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Customer_Ad_Click_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Dashboard - Online Shoppers Purchasing Intentions Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Online_Shoppers_Purchasing_Intentions_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
     </ul>
 </details>
 
@@ -154,12 +154,12 @@
 
 <details><summary><strong>🖨️ Generative AI</strong></summary>
     <ul>
-        <li>LangChain Cold Email Generator <a href="https://github.com/ms-cse/LangChain_Cold_Email_Generator" target="_blank"><b>[GitHub]</b></a></li>
-        <li>LlamaIndex Hotel QnA RAG ChatBot <a href="https://github.com/ms-cse/LlamaIndex_Hotel_QnA_RAG_ChatBot" target="_blank"><b>[GitHub]</b></a></li>
-        <li>VectorShiftAI Lead Collection Hotel RAG QnA ChatBot <a href="https://github.com/ms-cse/VectorShiftAI_Lead_Collection_Hotel_RAG_QnA_ChatBot" 
+        <li>LangChain - Cold Email Generator <a href="https://github.com/ms-cse/LangChain_Cold_Email_Generator" target="_blank"><b>[GitHub]</b></a></li>
+        <li>LlamaIndex - Hotel QnA RAG ChatBot <a href="https://github.com/ms-cse/LlamaIndex_Hotel_QnA_RAG_ChatBot" target="_blank"><b>[GitHub]</b></a></li>
+        <li>VectorShiftAI - Lead Collection Hotel RAG QnA ChatBot <a href="https://github.com/ms-cse/VectorShiftAI_Lead_Collection_Hotel_RAG_QnA_ChatBot" 
             target="_blank"><b>[GitHub]</b></a> | <a href="https://app.vectorshift.ai/chatbots/deployed/67c68c5d9c30f658199082ca" target="_blank"><b>[Online]</b></a> 
         </li>
-        <li>VectorShiftAI Resume Analyzer <a href="https://github.com/ms-cse/VectorShiftAI_Resume_Analyzer" target="_blank"><b>[GitHub]</b></a> | 
+        <li>VectorShiftAI - Resume Analyzer <a href="https://github.com/ms-cse/VectorShiftAI_Resume_Analyzer" target="_blank"><b>[GitHub]</b></a> | 
             <a href="https://app.vectorshift.ai/forms/deployed/67c7661f4215e33aa8a70ffb" target="_blank"><b>[Online]</b></a></li>
     </ul>
 </details>         
