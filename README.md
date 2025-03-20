@@ -145,7 +145,14 @@
     </ul>
 </details>
 
-<details><summary><strong>🔥 Deep Learning, Computer Vision, and NLP using Python and Gradio</strong></summary>
+<details><summary><strong>🔥 Deep Learning using Python and Gradio</strong></summary>
+    <ul>
+        <li>ANN Classification - Telecom Customer Churn Prediction <a href="https://github.com/ms-cse/ANN_CLF_Telecom_Customer_Churn_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>ANN Regression - Black Friday Sales Prediction <a href="https://github.com/ms-cse/ANN_REG_Black_Friday_Sales_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+    </ul>
+</details>
+
+<details><summary><strong>👁️ Computer Vision, and 👂 NLP using Python and Gradio</strong></summary>
     <ul>
         <li>ANN Classification - Telecom Customer Churn Prediction <a href="https://github.com/ms-cse/ANN_CLF_Telecom_Customer_Churn_Prediction" target="_blank"><b>[GitHub]</b></a></li>
         <li>ANN Regression - Black Friday Sales Prediction <a href="https://github.com/ms-cse/ANN_REG_Black_Friday_Sales_Prediction" target="_blank"><b>[GitHub]</b></a></li>
