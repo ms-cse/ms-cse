@@ -154,8 +154,8 @@
 
 <details><summary><strong>👁️ Computer Vision, and 👂 NLP using Python and Gradio</strong></summary>
     <ul>
-        <li>ANN Classification - Telecom Customer Churn Prediction <a href="https://github.com/ms-cse/ANN_CLF_Telecom_Customer_Churn_Prediction" target="_blank"><b>[GitHub]</b></a></li>
-        <li>ANN Regression - Black Friday Sales Prediction <a href="https://github.com/ms-cse/ANN_REG_Black_Friday_Sales_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>CV CNN Classification - Skin Cancer Class Prediction <a href="https://github.com/ms-cse/CV_CNN_CLF_Skin_Cancer_Class_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>NLP Classification - Real or Fake News Prediction <a href="https://github.com/ms-cse/NLP_CLF_Real_OR_Fake_News_Prediction" target="_blank"><b>[GitHub]</b></a></li>
     </ul>
 </details>
 
