@@ -4,7 +4,7 @@
 ## Introduction:
 👋 Hi, I'm Manish Sharma !
 <ul style="text-align:justify;">
-    <li>Welcome to my project portfolio! I’m a results-driven data scientist passionate about transforming raw data into intelligent, scalable solutions.</li>
+    <li>Welcome to my project portfolio! I’m a results-driven AI Engineer passionate about transforming raw data into intelligent, scalable solutions.</li>
     <li>My expertise covers the full data science lifecycle, from data collection and preprocessing to model development, deployment, and monitoring.</li>
     <li>I specialize in machine learning, generative AI, and automation, combining statistical analysis, software engineering best practices, and low-code AI platforms to build real-world applications.</li>
 </ul>
