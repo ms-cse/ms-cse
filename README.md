@@ -184,9 +184,9 @@
 
 ## Education:
 <ul>
-    <li>Pursuing Ph. D. | <b>JIIT, Noida, India.</b> <i>(Jan 2020 - Dec 2025)</i></li>
-    <li>M. Tech. (CSE)  | <b>JIIT, Noida, India.</b> <i>(Jul 2010 - Jun 2012)</i></li>
-    <li>B. E. (IT)      | <b>RTMNU, Nagpur, India.</b> <i>(Jul 2004 - Jun 2008)</i></li>
+    <li>Pursuing Ph. D. | <i>(Jan 2020 - Dec 2025)</i></li>
+    <li>M. Tech. (CSE)  | <i>(Jul 2010 - Jun 2012)</i></li>
+    <li>B. E. (IT)      | <i>(Jul 2004 - Jun 2008)</i></li>
 </ul>
   
 ---
