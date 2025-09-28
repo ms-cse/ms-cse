@@ -191,8 +191,6 @@
   
 ---
 ## Connect With Me:
-- **Email :** <manishh.sharmaa.cse@gmail.com>
-
 <ul>
         <li><a href="https://www.linkedin.com/in/ms-cse/" target="_blank"><b>LinkedIn</b></a></li>
         <li><a href="https://github.com/ms-cse" target="_blank"><b>GitHub</b></a></li>
