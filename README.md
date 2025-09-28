@@ -127,20 +127,20 @@
         <li>Tableau - Covid-19 Tracker Dashboard <a href="https://github.com/ms-cse/Tableau-Covid-19-Tracker-Dashboard" target="_blank"><b>[GitHub]</b></a> | 
             <a href="https://public.tableau.com/shared/ZS5P7XNQR?:display_count=n&:origin=viz_share_link" target="_blank"><b>[Online]</b></a>
         </li>
-        <li>Power BI - International Olympics Dashboard <a href="https://github.com/ms-cse/PowerBI-International-Olympics-Dashboard" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Power BI - International Olympics Dashboard</li>
     </ul>
 </details>
 
 <details><summary><strong>📊 Data Dashboards using Python and Streamlit</strong></summary>
     <ul>
-        <li>Dashboard - Customer Ad Click Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Customer_Ad_Click_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
-        <li>Dashboard - Online Shoppers Purchasing Intentions Data Analysis Dashboard <a href="https://github.com/ms-cse/DA_Online_Shoppers_Purchasing_Intentions_Dashboard" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Dashboard - Customer Ad Click Data Analysis Dashboard</li>
+        <li>Dashboard - Online Shoppers Purchasing Intentions Data Analysis Dashboard</li>
     </ul>
 </details>
 
 <details><summary><strong>🤖 Machine Learning using Python and Gradio</strong></summary>
     <ul>
-        <li>Classification - Wine Quality Prediction <a href="https://github.com/ms-cse/ML_CLF_Wine_Quality_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>Classification - Wine Quality Prediction</li>
         <li>Regression - Big Mart Sales Prediction <a href="https://github.com/ms-cse/ML_REG_Big_Mart_Sales_Prediction" target="_blank"><b>[GitHub]</b></a></li>
     </ul>
 </details>
@@ -148,14 +148,14 @@
 <details><summary><strong>🔥 Deep Learning using Python and Gradio</strong></summary>
     <ul>
         <li>ANN Classification - Telecom Customer Churn Prediction <a href="https://github.com/ms-cse/ANN_CLF_Telecom_Customer_Churn_Prediction" target="_blank"><b>[GitHub]</b></a></li>
-        <li>ANN Regression - Black Friday Sales Prediction <a href="https://github.com/ms-cse/ANN_REG_Black_Friday_Sales_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>ANN Regression - Black Friday Sales Prediction</li>
     </ul>
 </details>
 
 <details><summary><strong>👁️ Computer Vision, and 👂 NLP using Python and Gradio</strong></summary>
     <ul>
-        <li>CV CNN Classification - Skin Cancer Class Prediction <a href="https://github.com/ms-cse/CV_CNN_CLF_Skin_Cancer_Class_Prediction" target="_blank"><b>[GitHub]</b></a></li>
-        <li>NLP Classification - Real or Fake News Prediction <a href="https://github.com/ms-cse/NLP_CLF_Real_OR_Fake_News_Prediction" target="_blank"><b>[GitHub]</b></a></li>
+        <li>CV CNN Classification - Skin Cancer Class Prediction</li>
+        <li>NLP Classification - Real or Fake News Prediction</li>
     </ul>
 </details>
 
@@ -166,8 +166,7 @@
         <li>VectorShiftAI - Lead Collection Hotel RAG QnA ChatBot <a href="https://github.com/ms-cse/VectorShiftAI_Lead_Collection_Hotel_RAG_QnA_ChatBot" 
             target="_blank"><b>[GitHub]</b></a> | <a href="https://app.vectorshift.ai/chatbots/deployed/67c68c5d9c30f658199082ca" target="_blank"><b>[Online]</b></a> 
         </li>
-        <li>VectorShiftAI - Resume Analyzer <a href="https://github.com/ms-cse/VectorShiftAI_Resume_Analyzer" target="_blank"><b>[GitHub]</b></a> | 
-            <a href="https://app.vectorshift.ai/forms/deployed/67c7661f4215e33aa8a70ffb" target="_blank"><b>[Online]</b></a></li>
+        <li>VectorShiftAI - Resume Analyzer</li>
     </ul>
 </details>         
 <br>       
@@ -179,15 +178,6 @@
     <li><b>440 Hrs. NASSCOM Data Science and AI Certification Program</b> | Date of Issuance: Dec, 2022 | EIA/DOM/OLT/2021/236</li>
     <li><b>350 Hrs. NASSCOM Data Science Certification Program</b> | Date of Issuance: Feb, 2022</li>
     <li><b>Python and Statistics Exam Certification</b> | Date of Issuance: Feb, 2022</li>
-</ul>
-  
----
-
-## Publications:
-<ul>
-    <li>Sharma, Manish, and N. Hema. <b>"Comparison of Agricultural Drones and Challenges in Implementation: A Review."</b> <i>In 2021 7th International Conference on Signal Processing and Communication (ICSC)</i>, pp. 26-30. IEEE, 2021.</li>
-    <li>Hema, N., and Manish Sharma. <b>"Smart Agriculture Using IoD: Insights, Trends and Road Ahead."</b> <i>Development and Future of Internet of Drones (IoD): Insights, Trends and Road Ahead (2021)</i>: 79-107.</li>
-    <li>Bhosale, Amit S., Sanjay R. Khajure, and Manish S. Sharma. <b>"Efficient data collection in wireless sensor networks using spatial correlation algorithm."</b> <i>International Journal on Recent and Innovation Trends in Computing and Communication 3, no. 2 (2015)</i>: 418-423.</li>
 </ul>
   
 ---
