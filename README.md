@@ -73,6 +73,10 @@
 <ul>
     <li><img src="https://img.shields.io/badge/LangChain-yellow?logo=langchain&logoColor=white" alt="LangChain"></li>
     <li><img src="https://img.shields.io/badge/LlamaIndex-blue?logo=llamaindex&logoColor=white" alt="LlamaIndex"></li>
+    <li><img src="https://img.shields.io/badge/LangGraph-blue?logo=langgraph&logoColor=white" alt="LangGraph"></li>
+    <li><img src="https://img.shields.io/badge/LangSmith-orange?logo=langsmith&logoColor=black" alt="LangSmith"></li>
+    <li><img src="https://img.shields.io/badge/CrewAI-yellow?logo=crewai&logoColor=black" alt="CrewAI"></li>
+    <li><img src="https://img.shields.io/badge/Agno-red?logo=agno&logoColor=white" alt="Agno"></li>
     <li><img src="https://img.shields.io/badge/LangFlow-green?logo=langflow&logoColor=white" alt="LangFlow"></li>
     <li><img src="https://img.shields.io/badge/Flowise-red?logo=flowise&logoColor=white" alt="Flowise"></li>
     <li><img src="https://img.shields.io/badge/VectorShift-lightblue?logo=vectorshift&logoColor=white" alt="VectorShift"></li>
