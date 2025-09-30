@@ -137,9 +137,7 @@
 <i style="text-align:justify;">List of all the projects with GitHub repository link, that I have implemented over time ⌛.</i>
 <details><summary><strong>📈 Data Dashboards using BI Tools</strong></summary>
     <ul>
-        <li>Tableau - Covid-19 Tracker Dashboard <a href="https://github.com/ms-cse/Tableau-Covid-19-Tracker-Dashboard" target="_blank"><b>[GitHub]</b></a> | 
-            <a href="https://public.tableau.com/shared/ZS5P7XNQR?:display_count=n&:origin=viz_share_link" target="_blank"><b>[Online]</b></a>
-        </li>
+        <li>Tableau - Covid-19 Tracker Dashboard <a href="https://github.com/ms-cse/Tableau-Covid-19-Tracker-Dashboard" target="_blank"><b>[GitHub]</b></a></li>
         <li>Power BI - International Olympics Dashboard</li>
     </ul>
 </details>
