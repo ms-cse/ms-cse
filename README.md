@@ -177,8 +177,7 @@
         <li>LangChain - Cold Email Generator <a href="https://github.com/ms-cse/LangChain_Cold_Email_Generator" target="_blank"><b>[GitHub]</b></a></li>
         <li>LlamaIndex - Hotel QnA RAG ChatBot <a href="https://github.com/ms-cse/LlamaIndex_Hotel_QnA_RAG_ChatBot" target="_blank"><b>[GitHub]</b></a></li>
         <li>VectorShiftAI - Lead Collection Hotel RAG QnA ChatBot <a href="https://github.com/ms-cse/VectorShiftAI_Lead_Collection_Hotel_RAG_QnA_ChatBot" 
-            target="_blank"><b>[GitHub]</b></a> | <a href="https://app.vectorshift.ai/chatbots/deployed/67c68c5d9c30f658199082ca" target="_blank"><b>[Online]</b></a> 
-        </li>
+            target="_blank"><b>[GitHub]</b></a></li>
         <li>VectorShiftAI - Resume Analyzer</li>
     </ul>
 </details>         
