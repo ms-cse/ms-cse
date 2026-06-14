@@ -194,7 +194,7 @@
 
 ## Education:
 <ul>
-    <li>Pursuing Ph. D. | <i>(Jan 2020 - Dec 2025)</i></li>
+    <li>Pursuing Ph. D. | <i>(Jan 2020 - Dec 2026)</i></li>
     <li>M. Tech. (CSE)  | <i>(Jul 2010 - Jun 2012)</i></li>
     <li>B. E. (IT)      | <i>(Jul 2004 - Jun 2008)</i></li>
 </ul>
