@@ -2,11 +2,12 @@
 
 
 ## Introduction:
-👋 Hi, I'm Manish Sharma !
+👋 Hi, I'm Manish Sharma. Welcome to my project portfolio!
 <ul style="text-align:justify;">
-    <li>Welcome to my project portfolio! I’m a results-driven AI Engineer passionate about transforming raw data into intelligent, scalable solutions.</li>
-    <li>My expertise covers the full data science lifecycle, from data collection and preprocessing to model development, deployment, and monitoring.</li>
-    <li>I specialize in machine learning, generative AI, and automation, combining statistical analysis, software engineering best practices, and low-code AI platforms to build real-world applications.</li>
+    <li>I'm an AI Engineer with 4.5+ years of industry experience building practical AI solutions across Generative AI, Agentic AI, Machine Learning, Computer Vision, and Data Engineering. I enjoy transforming ideas into production-ready applications that solve real business problems and create measurable value.</li>
+    <li>My work spans AI-powered assistants, RAG systems, intelligent automation, forecasting solutions, computer vision applications, and modern data platforms. Over the years, I have worked across consulting, freelance, research, and corporate environments, gaining experience in designing, developing, and deploying end-to-end AI solutions.</li>
+    <li>I primarily work with Python, LangChain, LangGraph, LlamaIndex, FastAPI, TensorFlow, Kafka, Airflow, and modern AI frameworks. I'm particularly interested in Generative AI, Agentic AI systems, AI-driven automation, and scalable AI applications.</li>
+    <li>This portfolio showcases selected projects, experiments, and solutions that reflect my continuous journey of learning, building, and applying AI to real-world challenges.</li>
 </ul>
 
 <i style="text-align:justify;">🚀 I believe AI has the power to transform industries and improve lives. Explore my skills and projects to see how AI-driven solutions can solve real-world problems. Let’s connect and collaborate!</i>
@@ -187,14 +188,13 @@
     <li><b>Sr. Associate-Analytics NASSCOM Gold Certification</b> | Date of Issuance: Dec, 2023 | QP No. -SSC/Q2101</li>
     <li><b>440 Hrs. NASSCOM Data Science and AI Certification Program</b> | Date of Issuance: Dec, 2022 | EIA/DOM/OLT/2021/236</li>
     <li><b>350 Hrs. NASSCOM Data Science Certification Program</b> | Date of Issuance: Feb, 2022</li>
-    <li><b>Python and Statistics Exam Certification</b> | Date of Issuance: Feb, 2022</li>
 </ul>
   
 ---
 
 ## Education:
 <ul>
-    <li>Pursuing Ph. D. | <i>(Jan 2020 - Dec 2026)</i></li>
+    <li>Pursuing Ph. D. | <i>(Jan 2020 - Present)</i></li>
     <li>M. Tech. (CSE)  | <i>(Jul 2010 - Jun 2012)</i></li>
     <li>B. E. (IT)      | <i>(Jul 2004 - Jun 2008)</i></li>
 </ul>
@@ -202,8 +202,8 @@
 ---
 ## Connect With Me:
 <ul>
-        <li><a href="https://www.linkedin.com/in/ms-cse/" target="_blank"><b>LinkedIn</b></a></li>
-        <li><a href="https://github.com/ms-cse" target="_blank"><b>GitHub</b></a></li>
+        <li><a href="https://www.linkedin.com/in/ms-ai/" target="_blank"><b>LinkedIn</b></a></li>
+        <li><a href="https://github.com/ms-git-ai" target="_blank"><b>GitHub</b></a></li>
 </ul>
 
 - **Location:** Noida, India
